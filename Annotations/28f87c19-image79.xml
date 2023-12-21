@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>28f87c19-image79.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>4096</width>
+<height>2048</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Irregular Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1890</xmin>
+<ymin>936</ymin>
+<xmax>2073</xmax>
+<ymax>1008</ymax>
+</bndbox>
+</object>
+<object>
+<name>Irregular Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1012</xmin>
+<ymin>954</ymin>
+<xmax>1209</xmax>
+<ymax>1019</ymax>
+</bndbox>
+</object>
+<object>
+<name>Irregular Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>477</xmin>
+<ymin>981</ymin>
+<xmax>669</xmax>
+<ymax>1043</ymax>
+</bndbox>
+</object>
+<object>
+<name>Irregular Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>2607</xmin>
+<ymin>1004</ymin>
+<xmax>2725</xmax>
+<ymax>1073</ymax>
+</bndbox>
+</object>
+</annotation>

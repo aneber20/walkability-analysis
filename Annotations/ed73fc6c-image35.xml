@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>ed73fc6c-image35.jpg</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>4096</width>
+<height>2048</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Curb Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1932</xmin>
+<ymin>929</ymin>
+<xmax>2132</xmax>
+<ymax>995</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curb Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>2923</xmin>
+<ymin>926</ymin>
+<xmax>2992</xmax>
+<ymax>972</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curb Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>3094</xmin>
+<ymin>919</ymin>
+<xmax>3161</xmax>
+<ymax>948</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curb Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1222</xmin>
+<ymin>909</ymin>
+<xmax>1268</xmax>
+<ymax>929</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curb Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1007</xmin>
+<ymin>896</ymin>
+<xmax>1041</xmax>
+<ymax>915</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curb Ramp</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>400</xmin>
+<ymin>890</ymin>
+<xmax>432</xmax>
+<ymax>902</ymax>
+</bndbox>
+</object>
+</annotation>
